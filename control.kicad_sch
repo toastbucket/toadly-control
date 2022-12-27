@@ -1,0 +1,45 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 4abb0fa8-15fd-4934-981d-8c1518e957b7)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 77.47 72.39) (size 24.13 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 255 242 138 1.0000))
+    (uuid 07551e16-8169-4161-b345-aacecb867638)
+    (property "Sheet name" "MCU" (id 0) (at 77.47 71.6784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "mcu.kicad_sch" (id 1) (at 77.47 93.2946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/07551e16-8169-4161-b345-aacecb867638" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/07551e16-8169-4161-b345-aacecb867638/29f85bc4-5366-44e4-82af-f2b0426f74d8"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/52493d38-947e-469f-a551-6798960f2386"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/a07ca011-75b7-4fb2-a1c7-4cef98496939"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/46e29b69-2a0c-42ee-8f6d-326576f705f9"
+      (reference "A?") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/1e1d022b-5f74-41f0-8022-7f25de75336b"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+  )
+)
