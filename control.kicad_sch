@@ -29,17 +29,35 @@
     (path "/07551e16-8169-4161-b345-aacecb867638/29f85bc4-5366-44e4-82af-f2b0426f74d8"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/07551e16-8169-4161-b345-aacecb867638/37565cc8-6b73-4b99-b201-66d5564aaf5b"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/3f95f13f-0e3b-4391-a96d-5fb62f19ed16"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/4e06b543-7e2e-41fa-9b69-63c1d0417557"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/07551e16-8169-4161-b345-aacecb867638/52493d38-947e-469f-a551-6798960f2386"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/07551e16-8169-4161-b345-aacecb867638/a07ca011-75b7-4fb2-a1c7-4cef98496939"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/07551e16-8169-4161-b345-aacecb867638/ed45be1e-0e0b-4a5a-a533-27cd73af03f6"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/07551e16-8169-4161-b345-aacecb867638/46e29b69-2a0c-42ee-8f6d-326576f705f9"
       (reference "A?") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
     )
+    (path "/07551e16-8169-4161-b345-aacecb867638/0f34ed9d-d3e7-4f4c-9902-d9c6a8765383"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/07551e16-8169-4161-b345-aacecb867638/1e1d022b-5f74-41f0-8022-7f25de75336b"
       (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/c77ac548-f949-486b-8a0a-c0173407b5bf"
+      (reference "U?") (unit 1) (value "PCA9358") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
     )
   )
 )
