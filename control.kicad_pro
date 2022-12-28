@@ -324,6 +324,10 @@
     [
       "07551e16-8169-4161-b345-aacecb867638",
       "MCU"
+    ],
+    [
+      "7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f",
+      "IO"
     ]
   ],
   "text_variables": {}
