@@ -41,6 +41,9 @@
     (path "/07551e16-8169-4161-b345-aacecb867638/52493d38-947e-469f-a551-6798960f2386"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/07551e16-8169-4161-b345-aacecb867638/845d1b1a-6d75-44c5-afd3-d0db6ddde1aa"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/07551e16-8169-4161-b345-aacecb867638/a07ca011-75b7-4fb2-a1c7-4cef98496939"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -55,6 +58,12 @@
     )
     (path "/07551e16-8169-4161-b345-aacecb867638/1e1d022b-5f74-41f0-8022-7f25de75336b"
       (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/9b6bb144-9793-4a93-9062-c00790b7e790"
+      (reference "R?") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/07551e16-8169-4161-b345-aacecb867638/9e194e73-9ac3-4a21-b4bd-b0b4445d6602"
+      (reference "R?") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/07551e16-8169-4161-b345-aacecb867638/c77ac548-f949-486b-8a0a-c0173407b5bf"
       (reference "U?") (unit 1) (value "PCA9358") (footprint "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm")
