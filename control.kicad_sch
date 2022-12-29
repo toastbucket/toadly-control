@@ -2249,8 +2249,8 @@
     (path "/e329f5dd-ac54-4ef4-a779-6352db7141e0"
       (reference "C?") (unit 1) (value "1uF") (footprint "")
     )
-    (path "/9a43fd97-6c7b-45d8-a49e-7ebcbf8082c1/3e9daf16-d0cb-45c2-9ce8-4b5fda9dce3e"
-      (reference "D?") (unit 1) (value "D") (footprint "")
+    (path "/9a43fd97-6c7b-45d8-a49e-7ebcbf8082c1/f15271e1-182d-4e0b-b286-d04b67de0e48"
+      (reference "D?") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/182708b8-2ceb-4343-8e74-9bff63cfcddf"
       (reference "J?") (unit 1) (value "TE_Faston_20-16AWG_Straight_Tab") (footprint "TE_Faston_20-16AWG_Straight_Tab")
