@@ -1812,7 +1812,7 @@
     (uuid 44b2219f-f1ac-470a-a0c7-0dafc1b7cc1e)
     (property "Reference" "J5" (id 0) (at 228.6 92.71 0))
     (property "Value" "Conn_02x20_Odd_Even" (id 1) (at 228.6 95.25 0))
-    (property "Footprint" "" (id 2) (at 227.33 121.92 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" (id 2) (at 227.33 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 227.33 121.92 0)
@@ -1961,7 +1961,7 @@
     (property "Value" "Conn_01x03" (id 1) (at 156.21 163.8299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 153.67 162.56 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 153.67 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 162.56 0)
@@ -2701,10 +2701,10 @@
       (reference "J3") (unit 1) (value "Wurth_THR_Terminal_M4") (footprint "Toadly:Wurth_THR_Terminal_M4")
     )
     (path "/69e54dfb-ac9d-4c46-a779-f903052ebcce"
-      (reference "J4") (unit 1) (value "Conn_01x03") (footprint "")
+      (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/44b2219f-f1ac-470a-a0c7-0dafc1b7cc1e"
-      (reference "J5") (unit 1) (value "Conn_02x20_Odd_Even") (footprint "")
+      (reference "J5") (unit 1) (value "Conn_02x20_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
     )
     (path "/67db03dc-cb2f-47ff-b566-a38be36b10a9"
       (reference "J6") (unit 1) (value "TE_Faston_20-16AWG_Straight_Tab") (footprint "TE_Faston_20-16AWG_Straight_Tab")
