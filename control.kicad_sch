@@ -2610,6 +2610,15 @@
     (path "/414b9fdb-c2dc-45fc-88ad-4ef0ec8eb3dc/0d0b36cd-c778-484f-b81f-1fcb9fe75f0f"
       (reference "#PWR073") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/e7c48575-2b81-4a5e-b6fd-98c6d54807da"
+      (reference "#PWR074") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/7bcb51c2-e569-4e2e-a504-31e4df116a00"
+      (reference "#PWR075") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/9274517b-57d9-4e14-90e7-44631002d8b0"
+      (reference "#PWR076") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/07551e16-8169-4161-b345-aacecb867638/46e29b69-2a0c-42ee-8f6d-326576f705f9"
       (reference "A1") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
     )
@@ -2915,6 +2924,15 @@
     )
     (path "/414b9fdb-c2dc-45fc-88ad-4ef0ec8eb3dc/bb7a92c3-9c60-4d5a-8f75-007bfa9638b0"
       (reference "R45") (unit 1) (value "1.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/37b7cd79-256b-4803-9c5f-fa2ef19c4edb"
+      (reference "R46") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/c8a194eb-1c49-4eee-afb7-f259564d00fb"
+      (reference "R47") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/7dae9e6f-6bdd-4491-8ee1-2da2ec3e3f7f/4df6f6c2-980f-4000-a8bf-4dd7de1212a4"
+      (reference "R48") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/554d5078-3e3b-4053-bb94-b2bbea12f9bc"
       (reference "U1") (unit 1) (value "TPS7B8733") (footprint "Package_TO_SOT_SMD:TO-252-5_TabPin3")
