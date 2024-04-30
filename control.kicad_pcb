@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Toadly Control")
+    (rev "A")
+    (company "Nick Elsmore")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" signal)
@@ -10639,6 +10645,10 @@
   (gr_text "AUX 3" (at 73.009 70.2424) (layer "F.SilkS") (tstamp ffdca974-0688-41ae-85ca-1a7f2efac4a9)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
+  (gr_text_box "Toadly Control\nPedigree: A\nNick Elsmore 2024"
+    (start 179.7812 91.5416) (end 173.482 108.2548) (angle 270) (layer "F.SilkS") (tstamp 7239488f-065b-42f2-a6ff-5a631e2e7d43)
+      (effects (font (size 1 1) (thickness 0.2) bold) (justify left top))
+    (stroke (width 0.2) (type solid))  )
 
   (segment (start 126.81 110.69) (end 126 111.5) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0170682c-448e-42e3-8d0f-9ec37a151b2e))
   (segment (start 146.3548 99.0092) (end 146.558 98.9076) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0514d2d1-77e2-47e2-a9bb-d2c34737df72))
