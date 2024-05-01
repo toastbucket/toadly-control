@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.8,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -56,7 +56,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|156565600|65639600|50f2974f-53b0-42bd-8611-be86c73b5f0b|a882a1b4-6ea4-4250-8a4a-55d53b6cd676|F.Cu",
+        "starved_thermal|156565600|65639600|88960043-18b4-4c82-b69b-706f2c2138e8|a882a1b4-6ea4-4250-8a4a-55d53b6cd676|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -486,7 +489,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "out/ped_a/",
+    "plot_directory": "out/ped_b",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
